@@ -1,0 +1,27 @@
+{
+  "name": "node_bacth_9",
+  "version": "1.0.0",
+  "description": "node_basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinpen10/node_basic.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "basic"
+  ],
+  "author": "Edwin_penangsang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinpen10/node_basic/issues"
+  },
+  "homepage": "https://github.com/edwinpen10/node_basic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
